@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-receiverone/redis-receiverone.iml" filepath="$PROJECT_DIR$/redis-receiverone/redis-receiverone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-receivertwo/redis-receivertwo.iml" filepath="$PROJECT_DIR$/redis-receivertwo/redis-receivertwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-sender/redis-sender.iml" filepath="$PROJECT_DIR$/redis-sender/redis-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-templates/redis-templates.iml" filepath="$PROJECT_DIR$/redis-templates/redis-templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redissandbox.iml" filepath="$PROJECT_DIR$/redissandbox.iml" />
+    </modules>
+  </component>
+</project>

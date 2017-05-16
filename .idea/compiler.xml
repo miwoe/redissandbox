@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redis-receiverone" />
+        <module name="redis-receivertwo" />
+        <module name="redis-sender" />
+        <module name="redis-templates" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="redis-receiverone" target="1.8" />
+      <module name="redis-receivertwo" target="1.8" />
+      <module name="redis-sender" target="1.8" />
+      <module name="redis-templates" target="1.8" />
+      <module name="redissandbox" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
